@@ -1,0 +1,137 @@
+html {
+    box-sizing: border-box;
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Friends_Monica_GellerCursor.png) , default !important
+  }
+  
+  *,
+  *::before *::after {
+    box-sizing: inherit;
+  }
+
+  ol, ul {
+	list-style: none !important;
+    padding: 0;
+}
+h1, h2, h3 {
+    margin: 0;
+}
+
+
+@font-face {
+    font-family: 'one';
+    src: url('../font/Kill-Switch-Cyr_0.ttf');
+    src: local('one'), local('one'),
+        url('../font/Kill-Switch-Cyr_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'two';
+    src: url('../font/LexingtonC.ttf');
+    src: local('one'), local('one'),
+        url('../font/LexingtonC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tree';
+    src: url('../font/Pink-Yellow-Black.ttf');
+    src: local('one'), local('one'),
+        url('../font/Pink-Yellow-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'four';
+    src: url('../font/Broadway-Neon.ttf');
+    src: local('one'), local('one'),
+        url('../font/Broadway-Neon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'five';
+    src: url('../font/Milverton-Victoriana.ttf');
+    src: local('one'), local('one'),
+        url('../font/Milverton-Victoriana.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'seven';
+    src: url('../font/one-piece_font.ttf');
+    src: local('one'), local('one'),
+        url('../font/one-piece_font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'eith';
+    src: url('../font/RubikPuddles-Regular.ttf');
+    src: local('one'), local('one'),
+        url('../font/RubikPuddles-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nine';
+    src: url('../font/RubikWetPaint-Regular.ttf');
+    src: local('one'), local('one'),
+        url('../font/RubikWetPaint-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'ten';
+  src: url('../font/Zlusa\ _font.ttf');
+  src: local('one'), local('one'),
+      url('../font/Zlusa\ _font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'eleven';
+  src: url('../font/EBGaramond08-Regular.otf');
+  src: local('one'), local('one'),
+      url('../font/EBGaramond08-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+  
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    /*cursor: url(https://snipp.ru/demo/712/pointer-1.cur) 4 1, pointer;*/
+    cursor:  url(https://cdn.custom-cursor.com/db/pointer/32/It_Pennywise_Pointer.png)   , pointer !important;
+  }
+
+  .flex {
+    display: flex;
+  }  
+
+  .figureelements {
+    width: 700px;
+  }
+
